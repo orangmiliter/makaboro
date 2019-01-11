@@ -21,5 +21,5 @@ optional arguments:
                         Input output name
 
 ```
-**Demo Video**
-![Kaboro Video](https://youtu.be/EL1j92KXYrI)
+**Demo Video**  
+[![](https://cdn1.imggmi.com/uploads/2019/1/11/0200f83ff0ad01d9ddbfecbd7eb5794f-full.png)](https://youtu.be/EL1j92KXYrI)
