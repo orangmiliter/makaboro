@@ -22,4 +22,4 @@ optional arguments:
 
 ```
 **Demo Video**  
-[![](https://cdn1.imggmi.com/uploads/2019/1/11/0200f83ff0ad01d9ddbfecbd7eb5794f-full.png)](https://youtu.be/EL1j92KXYrI)
+[![](https://i.ibb.co/ryYJnG3/Screenshot-from-2019-01-11-16-36-25.png)](https://youtu.be/EL1j92KXYrI)
