@@ -1,5 +1,5 @@
 # makaboro
-makaboro adalah alat bantu untuk mengambil informasi di situs zone-h.org, makaboro hanya mengambil informasi `waktu, penyerang, tembas index, domain dan alamat mirror` yang di sediakan dalam format csv.
+Makaboro adalah alat bantu untuk mengambil informasi serangan deface pada domain pemerintah indonesia disitus zone-h.org dengan filter go.id, makaboro hanya mengambil informasi `waktu, penyerang, tembas index, domain dan alamat mirror` yang di sediakan dalam format csv.
 
 **cocok**  
 **[+] sistem operasi : Linux, mac**  
