@@ -1,4 +1,3 @@
 requests
-pwn
 bs4
 argparse
