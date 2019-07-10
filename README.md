@@ -13,16 +13,17 @@ pip install -r requirement.txt
 ```
 **Menjalankan Program**
 ```
-python makaboro.py -h
-usage: makaboro.py [-h] [--page PAGE [PAGE ...]]
-                   [--output OUTPUT [OUTPUT ...]]
+usage: makaboro.py [-h] [--start START [START ...]]
+                      [--stop STOP [STOP ...]] [--output OUTPUT [OUTPUT ...]]
 
 optional arguments:
   -h, --help            show this help message and exit
-  --page PAGE [PAGE ...]
-                        Input page target
+  --start START [START ...]
+                        Input page start
+  --stop STOP [STOP ...]
+                        input page stop
   --output OUTPUT [OUTPUT ...]
-                        Input output name
+                        Output file Name
 
 ```
 **Demo Video**  
