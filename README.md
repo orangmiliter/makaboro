@@ -1,6 +1,10 @@
 # makaboro
 makaboro adalah alat bantu untuk mengambil informasi di situs zone-h.org, makaboro hanya mengambil informasi `waktu, penyerang, tembas index, domain dan alamat mirror` yang di sediakan dalam format csv.
 
+**cocok**  
+**[+] sistem operasi : Linux, mac**  
+**[+] Versi Python : 3.6.8**  
+
 **Memasang Kebutuhan**
 ```
 git clone https://github.com/orangmiliter/makaboro.git
