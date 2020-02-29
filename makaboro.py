@@ -54,8 +54,8 @@ with open('output/zoneH-{}-{}-{}-{}.csv'.format(tahun, bulan, hari, output), 'a'
             kolom = row.findAll('td')
 
             if len(kolom) > 1:
-                halaman = kolom[7].text
-                attacker = kolom[1].text
+                halaman = kolom[7].text.encode('utf-8')
+                attacker = kolom[1].text.encode('utf-8)
                 tebas = kolom[2].text.replace("H", "Y").replace("", "T").replace("TYT", "Y") #wkwkwkgoblok
                 kejadian = kolom[0].text.replace('/', '-')
                 arsip = kolom[9].find('a').get('href')
